@@ -1,0 +1,15 @@
+###24.Color Picker
+====================
+Color Copy web apps >>> pixie, color picker ...zilla.
+=======================
+1. Google Search>>> html color code
+2. inspect >>>> color select
+
+3. pixie 
+color copy = ctrl alt c
+       paste = ctrl v
+          select zoom if need= ctrl alt z
+ ===========================================
+ 
+
+

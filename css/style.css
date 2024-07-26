@@ -1,0 +1,22 @@
+p{
+    color: red;
+}
+p1{
+    color:#008000;
+}
+<!-- 25. Text Decoration -->
+h1{
+    text text-decoration: none;
+}
+
+h2{
+    text text-decoration: underline;
+}
+
+h3{
+    text text-decoration: overline;
+}
+
+h4{
+    text text-decoration: line-through;
+}
